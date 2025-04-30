@@ -56,7 +56,7 @@ This repo is my 📒 digital notebook where I:
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structure & Other
 
 ```bash
 Java-Basics/
