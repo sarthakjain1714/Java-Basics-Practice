@@ -69,3 +69,23 @@ Java-Basics/
 ├── Loops/              # for, while, do-while questions
 │   └── README.md
 ├── README.md           # Main repo overview (this file)
+
+---
+
+🤔 Why I'm Doing This
+I'm committed to becoming a strong developer, and that starts with solid fundamentals.
+This repo is not just practice — it's proof of my consistency, discipline, and willingness to learn from scratch.
+
+By building this step-by-step, I'm training myself for DSA, technical interviews, and real-world problem solving.
+
+---
+
+📬 Connect with Me
+Want to collaborate, discuss Java, or just say hi?
+Reach out to me on:
+
+📧 Email: sarthakjain1714@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/sarthak-jain1714/
+
+🧑‍💻 GitHub: https://github.com/sarthakjain1714
