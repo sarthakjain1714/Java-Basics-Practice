@@ -12,5 +12,6 @@ public class Condition_q1 {
         else{
             System.out.println("Odd");
         }
+
     }
 }
