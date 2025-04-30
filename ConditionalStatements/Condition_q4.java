@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class Condition_q4 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter the first number");
+        System.out.println("Enter the First number");
         int a = input.nextInt();
 
-        System.out.println("Enter the second number");
+        System.out.println("Enter the Second number");
         int b = input.nextInt();
 
         System.out.println("Enter the third number");
