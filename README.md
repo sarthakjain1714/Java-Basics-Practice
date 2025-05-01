@@ -23,7 +23,7 @@ This repo is my 📒 digital notebook where I:
 
 ## 🎯 Goals
 
-- [x] Complete 50+ Java basics questions  
+- [x] Complete 25+ Java basics questions  
 - [x] Create organized topic-wise folders  
 - [ ] Master Functions, Arrays, Strings  
 - [ ] Start solving DSA problems  
